@@ -1,2 +1,3 @@
 # adnpy06
-This is my intro to be pushed
+
+Exercise of the **HTML** *training* [WebForce3](http:/wf3.fr) & ADNPY
