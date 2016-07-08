@@ -1,0 +1,94 @@
+h1 {color: blue;
+text-align:center;}
+h2 {color:green;
+	text-align:center;
+	background:pink;}
+h3 {color: pink;
+	text-align:center;}
+
+
+/*
+h1 {
+	color: red;
+	background: rgb(180,240,90);
+}*/
+/* this is a comment */
+/*h2 {
+	color: green;
+	background: #E0D909;
+} */
+
+.montitre3 {
+	color:gray;
+	background:yellow;
+
+	}
+.my-class {
+	font-size: 10px;
+
+	}
+#adnpy {
+	text-decoration: underline;
+	background: yellow;
+	text-align: justify;
+	}
+	/* to float an image or element */
+.image-left {
+	float: left;
+	margin-right: 10px
+	}
+	/* to cancel the previous float */
+.pcleared {
+	clear: right;
+	}
+.image-right{
+	float: right;
+	margin-left: 10px
+	}
+.small-pic{
+	width: 50px;
+	margin-right:10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.img-box{
+	background-color: orange;
+	float: right;
+	margin: 20px 50px;
+}
+.big-pic{
+	width: 96px;
+	/* all if 1 value, vertical horizontal if 2 values,
+	top/horiz/bottom if 3 values
+	and individual if 4 values*/
+	/*margin: 20px 50px;
+	margin: 15px 10px 20px 40px;*/
+	padding: 5px 5px 5px 5px;
+	/*background-color: orange;
+	margin;
+
+	margin-right:20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;*/
+	border-style: solid;
+	border-width: 5px;
+	border-color: blue;
+}
+.div-bord{
+	border-style: outset;
+	border-width: 50px;
+	border-color: red;
+}
+/* the following applies a condition,
+it only applies to images which have a clss img-box
+.img-box img{
+	background-color: orange;
+	float: right;
+	margin: 20px 50px;
+}*/
+
+body p {
+	text-align: justify;
+}
